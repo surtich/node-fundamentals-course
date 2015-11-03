@@ -1,1 +1,1 @@
-Goto [slides](http://igzjavierperez.github.io/node-fundamentals-course/) presentation.
+Goto [slides](http://surtich.github.io/node-fundamentals-course/) presentation.
